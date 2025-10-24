@@ -1,12 +1,5 @@
 # 👋 Hello, I'm Amaru Tom!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tom-amaru-0875a4389/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://amarutom.vercel.app/"><img src="https://skillicons.dev/icons?i=web" width="40" /></a>
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🎓 **Currently studying at:** Ynov Campus Aix-en-Provence  
@@ -28,8 +21,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmaruTom&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaruTom&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiokaa&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiokaa&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ## 🌐 Find Me Online

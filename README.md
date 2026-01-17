@@ -29,5 +29,5 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tom-amaru-0875a4389/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://amarutom.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://amarutom.com/"><img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>

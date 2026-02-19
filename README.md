@@ -4,7 +4,7 @@
 
 - 🎓 **Currently studying at:** Ynov Campus Aix-en-Provence  
 - 🎯 **Level:** Bachelor 2 (Bac+2)  
-- 💼 **Looking for:** Internship to validate my year & Apprenticeship for next year (Bachelor 3)  
+- 💼 **Looking for:** Apprenticeship for next year (Bachelor 3)  
 - 📍 **Based in:** Aix-en-Provence, France  
 - 🎮 **Passions:** Music & Video Games  
 

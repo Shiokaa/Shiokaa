@@ -13,7 +13,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,java,nextjs,express,mysql,postgresql,docker" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,nextjs,express,mysql,postgresql,docker,angular,terraform,php,html,css,javascript" />
 </p>
 
 ---
